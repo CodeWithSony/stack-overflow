@@ -9,16 +9,8 @@ import thunk from "redux-thunk";
 import userRouter from "./routes/users.js";
 import questionRouter from "./routes/Question.js";
 import answerRoutes from "./routes/Answers.js";
-// const { MongoClient, ServerApiVersion } = require('mongodb');
-// import {MongoClient, ServerApiVersion} from "mongodb"
-// in node js we give full path as .js but in react we only give path till users not users.js
-// but we need mongodb atlas
-import connectDB from "./Config/db.js"
 
 dotenv.config();
-
-// connectDB()
-
 app.use(express.json({ limit: "30mb", extended: true }));
 app.use(express.urlencoded({ limit: "30mb", extended: true }));
 app.use(cors());
@@ -39,25 +31,3 @@ mongoose.connect(DATABASE_URL, { useNewUrlParser: true, useUnifiedTopology: true
 
 
 
-
-  // 
-  // const client = new MongoClient(DATABASE_URL, {
-  //   serverApi: {
-  //     version: ServerApiVersion.v1,
-  //     strict: true,
-  //     deprecationErrors: true,
-  //   }
-  // });
-  // async function run() {
-  //   try {
-  //     // Connect the client to the server	(optional starting in v4.7)
-  //     await client.connect();
-  //     // Send a ping to confirm a successful connection
-  //     await client.db("admin").command({ ping: 1 });
-  //     console.log("Pinged your deployment. You successfully connected to MongoDB!");
-  //   } finally {
-  //     // Ensures that the client will close when you finish/error
-  //     await client.close();
-  //   }
-  // }
-  // run().catch(console.dir);
