@@ -52,15 +52,15 @@ Git & GitHub
 
 stack-overflow/
 │
-├── client/         # Frontend source code
-│   ├── public/     # Static assets
-│   ├── src/        # Components, pages, styles
+├── client/         
+│   ├── public/     
+│   ├── src/        
 │   └── package.json
 │
-├── server/         # Backend source code
-│   ├── routes/     # API routes
-│   ├── models/     # Database models
-│   ├── controllers/# Business logic
+├── server/         
+│   ├── routes/     
+│   ├── models/     
+│   ├── controllers/
 │   └── package.json
 │
 └── README.md
