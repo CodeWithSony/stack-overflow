@@ -28,23 +28,20 @@ REST API integration
 🛠️ Tech Stack
 
 Frontend (Client):
-
 HTML, CSS, JavaScript
 
-(Add framework here if you used React / Next.js / Vue, etc.)
+Framework:
+React.js
 
 
 Backend (Server):
-
 Node.js, Express.js
 
 (Add database here if used: MongoDB / MySQL / etc.)
 
 
 Other Tools:
-
 npm (Node Package Manager)
-
 Git & GitHub
 
 
@@ -82,12 +79,10 @@ cd stack-overflow
 2. Install dependencies
 
 For client:
-
 cd client
 npm install
 
 For server:
-
 cd ../server
 npm install
 
@@ -104,58 +99,11 @@ Start server:
 npm start
 
 
-(By default, the client runs on http://localhost:3000 and server on http://localhost:5000 — update if different.)
-
-
-
-
----
-
-📸 Screenshots (Optional)
-
-> Add screenshots of your app here (login, dashboard, Q&A page, etc.)
-
+( The client runs on http://localhost:3000 and server on http://localhost:5000 )
 
 
 
 ---
 
-🔮 Future Improvements
-
-Add rich text editor for asking/answering questions
-
-Implement tags and search functionality
-
-Add profile pages for users
-
-Deploy on Netlify/Render/Heroku
-
-
-
----
-
-🤝 Contributing
-
-Contributions are welcome!
-
-Fork the repository
-
-Create a feature branch
-
-Commit your changes
-
-Submit a pull request
-
-
-
----
-
-📜 License
-
-This project is licensed under the MIT License.
-You’re free to use, modify, and distribute this project with attribution.
-
-
----
 
 ✨ Author: CodeWithSony
