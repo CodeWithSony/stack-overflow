@@ -48,26 +48,6 @@ Git & GitHub
 
 ---
 
-📂 Project Structure
-
-stack-overflow/
-│
-├── client/         
-│   ├── public/     
-│   ├── src/        
-│   └── package.json
-│
-├── server/         
-│   ├── routes/     
-│   ├── models/     
-│   ├── controllers/
-│   └── package.json
-│
-└── README.md
-
-
----
-
 ⚙️ Installation & Setup
 
 1. Clone the repository
