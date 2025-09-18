@@ -15,16 +15,16 @@ This project allows users to ask questions, post answers, and interact in a Q&A-
 ![Sign Up](./client/screenshots/signup.png)
 
 ### 3. Home Page  
-![Home Page](./screenshots/questions.png)  
+![Home Page](./client/screenshots/questions.png)  
 
 ### 4. Question Detail  
-![Question Detail](./screenshots/qustionDetail.png)
+![Question Detail](./client/screenshots/qustionDetail.png)
 
 ### 5. Edit Profile  
-![Edit Profile](./screenshots/editprofile.png)
+![Edit Profile](./client/screenshots/editprofile.png)
 
 ### 6. Tags
-![Tags](./screenshots/tags.png)
+![Tags](./client/screenshots/tags.png)
 
 ---
 
