@@ -5,7 +5,7 @@ const app = express();
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import cors from "cors";
-import thunk from "redux-thunk";
+// import thunk from "redux-thunk";
 import userRouter from "./routes/users.js";
 import questionRouter from "./routes/Question.js";
 import answerRoutes from "./routes/Answers.js";
