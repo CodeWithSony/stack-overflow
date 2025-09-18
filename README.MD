@@ -9,10 +9,10 @@ This project allows users to ask questions, post answers, and interact in a Q&A-
 ## Screenshots  
 
 ### 1. Login Page  
-![Login Page](./screenshots/login.png)  
+![Login Page](./client/screenshots/login.png)  
 
 ### 2. Sign up 
-![Sign Up](./screenshots/signup.png)
+![Sign Up](./client/screenshots/signup.png)
 
 ### 3. Home Page  
 ![Home Page](./screenshots/questions.png)  
