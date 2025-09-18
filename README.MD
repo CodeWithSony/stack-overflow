@@ -11,14 +11,20 @@ This project allows users to ask questions, post answers, and interact in a Q&A-
 ### 1. Login Page  
 ![Login Page](./screenshots/login.png)  
 
-### 2. Dashboard  
-![Dashboard](./screenshots/dashboard.png)  
+### 2. Sign up 
+![Sign Up](./screenshots/signup.png)
 
-### 3. Product List  
-![Product List](./screenshots/product-list.png)  
+### 3. Home Page  
+![Home Page](./screenshots/questions.png)  
 
-### 4. Add Product  
-![Add Product](./screenshots/add-product.png)
+### 4. Question Detail  
+![Question Detail](./screenshots/qustionDetail.png)
+
+### 5. Edit Profile  
+![Edit Profile](./screenshots/editprofile.png)
+
+### 6. Tags
+![Tags](./screenshots/tags.png)
 
 ---
 
