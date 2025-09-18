@@ -4,6 +4,21 @@ Stack Overflow Clone
 A full-stack web application inspired by Stack Overflow.
 This project allows users to ask questions, post answers, and interact in a Q&A-style platform. It demonstrates CRUD operations, authentication, and client–server communication using JavaScript.
 
+---
+
+## Screenshots  
+
+### 1. Login Page  
+![Login Page](./screenshots/login.png)  
+
+### 2. Dashboard  
+![Dashboard](./screenshots/dashboard.png)  
+
+### 3. Product List  
+![Product List](./screenshots/product-list.png)  
+
+### 4. Add Product  
+![Add Product](./screenshots/add-product.png)
 
 ---
 
