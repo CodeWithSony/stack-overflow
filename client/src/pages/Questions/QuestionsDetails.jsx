@@ -40,8 +40,8 @@ const QuestionsDetails = () => {
             id,
             noOfAnswers: answerLength + 1,
             answerBody: Answer,
-            userAnswered: User.result.name,
-            userId: User.result._id,
+            userAnswered: User.result?.name,
+            userId: User.result?._id,
           })
         );
         // console.log(postAnswer, "it's post answer")
@@ -190,7 +190,7 @@ const QuestionsDetails = () => {
                       to="/AskQuestions"
                       style={{ textDecoration: "none", color: "#009dff" }}
                     >
-                      ask your own question.
+                     &nbsp; ask your own question.
                     </Link>
                   </p>
                 </section>
